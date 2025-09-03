@@ -1,6 +1,6 @@
 # Skin Lesion Classification with Attention Leakage Analysis
 
-A comprehensive comparative study of CNN architectures for skin lesion classification featuring novel quantitative attention analysis using Grad-CAM and segmentation masks.
+A comprehensive comparative study of CNN architectures for skin lesion classification using quantitative attention analysis using Grad-CAM and segmentation masks.
 
 ## Overview
 
