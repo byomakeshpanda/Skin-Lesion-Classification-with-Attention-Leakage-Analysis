@@ -37,10 +37,10 @@ Our quantitative analysis of attention leakage using segmentation masks to measu
 ## Visualizations
 
 ### Model Comparison
-![Model Comparison](results_visualization/model_comparison.jpg)
+![Model Comparison](results_visualization/model_comparison.png)
 
 ### Attention Leakage Analysis
-![Attention Leakage Analysis](results_visualization/summary_plots/attention_leakage_analysis.jpg)
+![Attention Leakage Analysis](results_visualization/summary_plots/attention_leakage_analysis.png)
 
 ## Installation
 
