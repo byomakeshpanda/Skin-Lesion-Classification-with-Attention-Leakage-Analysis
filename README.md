@@ -24,7 +24,7 @@ This project implements and compares three fine-tuned CNN models (ResNet18, Effi
 
 ### Attention Leakage Analysis
 
-Our quantitative analysis of attention leakage using segmentation masks to measure how much model focus falls *outside* the lesion—yields several insights:
+Our quantitative analysis of attention leakage using segmentation masks to measure how much model focus falls *outside* the lesion provides several insights:
 
 - **Mean attention leakage for benign lesions:** 61.4%
 - **Mean attention leakage for malignant lesions:** 46.7%
